@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.liverainy.online/2024/05/04/%E4%B8%8B%E9%9B%A8%E5%A4%A9%E7%9A%84google%E7%9A%84%E6%94%B6%E5%BD%95%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://www.liverainy.online/about/index.html</loc>
     
     <lastmod>2024-05-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.liverainy.online/about/index.html</loc>
+    <loc>https://www.liverainy.online/categories/index.html</loc>
     
     <lastmod>2024-05-09</lastmod>
     
@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://www.liverainy.online/categories/index-1.html</loc>
-    
-    <lastmod>2024-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.liverainy.online/tags/index.html</loc>
     
     <lastmod>2024-05-09</lastmod>
@@ -47,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://www.liverainy.online/categories/index.html</loc>
+    <loc>https://www.liverainy.online/2024/05/04/%E4%B8%8B%E9%9B%A8%E5%A4%A9%E7%9A%84google%E7%9A%84%E6%94%B6%E5%BD%95%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.liverainy.online/categories/index-1.html</loc>
     
     <lastmod>2024-05-09</lastmod>
     
